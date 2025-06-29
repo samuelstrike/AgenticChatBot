@@ -12,35 +12,16 @@ This project is an end-to-end implementation of an agentic AI chatbot using [Lan
 ## Project Structure
 
 ```
-.gitignore
 app.py
-README.md
 requirements.txt
 src/
-    __init__.py
     langgraphagenticai/
-        __init__.py
         main.py
         graph/
-            __init__.py
-            graph_builder.py
         LLMS/
-            __init__.py
-            groqllm.py
         nodes/
-            __init__.py
-            basic_chatbot_node.py
         state/
-            __init__.py
-            state.py
-        tools/
-            __init__.py
         ui/
-            uiconfigfile.ini
-            uiconfigfile.py
-            streamlitui/
-                loadui.py
-                display_result.py
 ```
 
 ## Getting Started
