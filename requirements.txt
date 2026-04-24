@@ -7,3 +7,5 @@ langchain_groq
 faiss-cpu
 streamlit
 tavily-python
+wikipedia
+pydantic
